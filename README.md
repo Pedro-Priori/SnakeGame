@@ -6,8 +6,8 @@ Este é um projeto simples do clássico Jogo da Cobrinha (Snake), desenvolvido e
 
 O jogador controla uma cobra que se move pela tela, com o objetivo de comer as frutas (`♦`) que aparecem em locais aleatórios. Cada vez que a cobra come uma fruta, ela cresce de tamanho. O jogo termina se a cobra colidir com as bordas da tela ou com o seu próprio corpo.
 
-![Gameplay do Jogo da Cobrinha no Terminal](https://i.imgur.com/k2d4F5c.gif)
-*(Você pode substituir o link acima por uma captura de tela ou GIF do seu jogo)*
+![Gameplay do Jogo da Cobrinha no Terminal](https://media1.giphy.com/media/fq8JHOzq9ZML4DDWfK/giphy.gif)
+
 
 ## Como Jogar
 
