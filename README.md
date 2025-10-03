@@ -27,7 +27,7 @@ O jogador controla uma cobra que se move pela tela, com o objetivo de comer as f
     * Navegue até o diretório onde você salvou o arquivo.
     * Execute o seguinte comando (substitua `snake_game.py` pelo nome do seu arquivo):
         ```bash
-        python snake_game.py
+        python SnakeGame.py
         ```
     * Ao iniciar, o jogo pedirá para você **selecionar a dificuldade** de 1 (mais lento) a 5 (mais rápido).
     * Use as **teclas de seta** (↑, ↓, ←, →) para controlar a direção da cobra.
